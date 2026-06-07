@@ -1,4 +1,4 @@
-# AIChat 介绍
+# ![0](./images/0.png)AIChat 介绍
 
 ## 软件定位
 
